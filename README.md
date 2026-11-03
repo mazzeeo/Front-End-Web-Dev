@@ -39,5 +39,5 @@ Respostas de erro vêm como `{ "error": "mensagem" }` (400, 404, 405). Limitaç�
 A IA (Claude, da Anthropic) foi usada para criar a API e este README. A equipe revisou, testou e adaptou o código, testamos evalidamos a API com testes em 3 computadores diferentes.
 
 ## Links
-- Repositório Git: [COLAR LINK]
-- Deploy na Vercel: [COLAR LINK]
+- Repositório Git: (https://github.com/mazzeeo/Front-End-Web-Dev)
+- Deploy na Vercel: https://front-end-web-dev-pearl.vercel.app/
